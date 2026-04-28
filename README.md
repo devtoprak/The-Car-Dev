@@ -1,9 +1,9 @@
 [README.md](https://github.com/user-attachments/files/27154104/README.md)
-# The Car 1.5
+# The Car 1.6
 
 ## New Update
 
-- *In this game, you can now see your score*
+- *Bug Fİx*
 
 ## How is the score increasing?
 
