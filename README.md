@@ -1,5 +1,13 @@
 [README.md](https://github.com/user-attachments/files/27154104/README.md)
-# The Car 1.0
+# The Car 1.5
+
+## New Update
+
+- *In this game, you can now see your score*
+
+## How is the score increasing?
+
+**_When you pass enemy cars (y) Your score increases by 10_**
 
 ## LICENSE
 
@@ -15,7 +23,7 @@ This project is licensed under the **Apache License 2.0**.
 
 
 - in game:
-<img width="1282" height="704" alt="game" src="https://github.com/user-attachments/assets/5284b0aa-947d-42ad-b23a-bfd1ad5cdb56" />
+<img width="1277" height="704" alt="İn Game" src="https://github.com/user-attachments/assets/22efd942-7154-489f-be78-0ffb1bb22cd8" />
 
 
 ## How to Play
