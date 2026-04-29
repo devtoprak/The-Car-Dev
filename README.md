@@ -1,9 +1,10 @@
 [README.md](https://github.com/user-attachments/files/27154104/README.md)
-# The Car 1.6
+# The Car 1.7.1
 
 ## New Update
 
-- *Bug Fİx*
+- *The hitboxes have been fixed,*
+- *The cars have changed*
 
 ## How is the score increasing?
 
@@ -23,7 +24,7 @@ This project is licensed under the **Apache License 2.0**.
 
 
 - in game:
-<img width="1277" height="704" alt="İn Game" src="https://github.com/user-attachments/assets/22efd942-7154-489f-be78-0ffb1bb22cd8" />
+<img width="1282" height="707" alt="ingame" src="https://github.com/user-attachments/assets/8901d052-dc24-4d79-af05-f8c64c5051f5" />
 
 
 ## How to Play
